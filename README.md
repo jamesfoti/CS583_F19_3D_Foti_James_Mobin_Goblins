@@ -1,7 +1,7 @@
 # CS 583 (3D Game Programming) - 3D Game
 **Game can be played here (WebGL):** https://jamesfoti.github.io/CS583_F19_3D_Foti_James_Mobin_Goblins/index.html <br/><br/>
 **Game can be played [here (Standalone)](https://github.com/jamesfoti/CS583_F19_3D_Foti_James_Mobin_Goblins/tree/master/Versions/1.0)** and by runnig **CS583_F19_3D.exe** by downloading it and double clicking on it.<br/><br/>
-**Note:** the game was developed for Windows/Mac/Linux Standalone rather than WebGL so the sizing and positions of the UI and some game objects are a little distorted when you play the WebGL version. If you want to play the game without any uneccessary UI issues, play the Standalone version (link above). <br/><br/>
+**Note:** the game was developed for Windows/Mac/Linux Standalone rather than WebGL so the sizing and positions of the UI and some game objects are a little distorted when you play the WebGL version. If you want to play the game without any uneccessary UI issues, simply expand the WebGL window or play the Standalone version (links above). <br/><br/>
 
 ## CONTRIBUTERS
 	Zaynab Abdi - Red ID: 
